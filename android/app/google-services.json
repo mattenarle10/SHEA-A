@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285656086763",
+    "project_id": "shea-a",
+    "storage_bucket": "shea-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285656086763:android:4cdf17298f30889711e6ae",
+        "android_client_info": {
+          "package_name": "com.example.sea_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSW1Lx3qeCe1g48jSSNPwnhhsvx1Tx0KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
